@@ -1,5 +1,4 @@
 # demo
 this is my first project
 <br>
-author
-- is pradeep
+author - is pradeep
